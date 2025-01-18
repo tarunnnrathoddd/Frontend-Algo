@@ -11,6 +11,7 @@ const Home = () => {
           Welcome to the world's largest AlgoTrade marketplace. Sign up to explore more about Trading.
         </p>
       </section>
+      
 
       {/* Search Section */}
       <section className="py-6 px-4">
