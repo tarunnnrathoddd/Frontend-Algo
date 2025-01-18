@@ -15,7 +15,7 @@ const Navbar = () => {
           <a href="/" className="hover:text-blue-300">
             Home
           </a>
-          <a href="/services" className="hover:text-blue-300">
+          <a href="/" className="hover:text-blue-300">
             Backtrack
           </a>
         </div>
